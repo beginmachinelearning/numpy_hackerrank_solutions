@@ -1,7 +1,5 @@
 import numpy as np
 
-contents = ""
-
 linenumber=1;
 content_as_string_array="";
 while True:
