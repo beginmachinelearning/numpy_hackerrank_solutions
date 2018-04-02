@@ -7,3 +7,4 @@ bisect.bisect(a, 1)
 bisect.bisect(a, 7)
 
 bisect.insort(a, 5)
+
